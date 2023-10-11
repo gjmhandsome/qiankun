@@ -1,5 +1,12 @@
 # @qiankunjs/sandbox
 
+## 0.0.1-rc.4
+
+### Patch Changes
+
+- dc4d9aef: 🐛parallel sandbox should use different compartment id
+  - @qiankunjs/shared@0.0.1-rc.4
+
 ## 0.0.1-rc.3
 
 ### Patch Changes
